@@ -6,8 +6,3 @@ var server = http.createServer(function(req, res) {
    res.end('wha d\'up dawg' + x);
 });
 server.listen(8080);
-
-/*blahbla
-*whooot
-*yeah!
-*/
