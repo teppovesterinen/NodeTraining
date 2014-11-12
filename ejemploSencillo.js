@@ -10,6 +10,6 @@ var miServidor = http.createServer(
    var segundos = d.getSeconds();
    if (segundos<10) segundos = "0" + segundos;
    var ahora = horas + ":" + minutos + ":" + segundos;
-   console.log('Alguien ha accedido a las ' + ahora);
+   console.log('Alguien no ha accedido a las ' + ahora);
    });
 miServidor.listen(8000);
