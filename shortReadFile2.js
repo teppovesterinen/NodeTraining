@@ -1,3 +1,6 @@
+//this has been modified 14:37, but nothing rly is modified excpt for thi cmnt
+
+
 // Name: shortReadFile2.js
 // Purpose: This programme prints this file on screen using promises, and 
 shows later the file length.
