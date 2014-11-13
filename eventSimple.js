@@ -1,9 +1,3 @@
-/**what the fuck is  happening
-*with
-*these
-*comments
-*/
-
 var ev = require('events');
 var emitter = new ev.EventEmitter;
 // Names of the events.
